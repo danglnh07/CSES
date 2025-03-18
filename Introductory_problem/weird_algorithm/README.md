@@ -2,7 +2,7 @@
 
 ## Sumary
 
-We read in a number ($1 <= n <= 10^6$), if n is even, divide it by 2, if odd, then multiply by 3 and add 1 until 
+We read in a number $(1 <= n <= 10^6)$, if n is even, divide it by 2, if odd, then multiply by 3 and add 1 until 
 n = 1
 
 ## Trick to solve
