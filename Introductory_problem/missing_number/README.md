@@ -15,4 +15,5 @@ The sum of all `n` number can be calculate using the formula: $n(n + 1)/2$
 ## Analysis
 
 Time complexity: $O(n)$
+
 Space complexity: $O(1)$
